@@ -10,7 +10,9 @@ An explainable e-commerce personalization framework that combines:
 
 The project uses the Retailrocket e-commerce event dataset as the primary dataset and the YooChoose RecSys Challenge 2015 dataset for external validation.
 
-> **DOI:** Pending Zenodo publication  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22116891.svg)](https://doi.org/10.5281/zenodo.22116891)
+
+> **Archived release DOI:** [10.5281/zenodo.22116891](https://doi.org/10.5281/zenodo.22116891)
 > **License:** MIT for project code; source datasets retain their original licenses and terms.
 
 ## Research objective

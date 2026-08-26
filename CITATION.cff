@@ -4,8 +4,10 @@ message: "If you use this software or repository in your research, please cite i
 
 title: "Explainable E-Commerce Personalization System"
 type: software
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-08-26"
+
+doi: 10.5281/zenodo.22116891
 
 authors:
   - family-names: "Ghahreman"
