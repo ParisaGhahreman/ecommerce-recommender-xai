@@ -1,0 +1,4 @@
+model,accuracy,precision,recall_sensitivity,specificity,f1_score,roc_auc,pr_auc,true_negative,false_positive,false_negative,true_positive
+Majority Class Baseline,0.9565,0.0,0.0,1.0,0.0,0.5,0.0435,79087,0,3593,0
+CatBoost on YooChoose,0.9565,0.0,0.0,1.0,0.0,0.6337,0.0741,79087,0,3593,0
+CatBoost on YooChoose (threshold=0.06),0.8303,0.0811,0.2811,0.8553,0.1259,0.6337,0.0741,67640,11447,2583,1010

@@ -1,0 +1,13 @@
+characteristic,value
+Raw event records,"2,756,101"
+Cleaned event records,"2,755,641"
+Exact duplicate event records removed,460
+Unique users,"1,407,580"
+Unique items,"235,061"
+Unique user-item pairs,"2,145,179"
+Transaction event records,"22,457"
+Unique purchasing users,"11,719"
+Product categories,"1,669"
+Root product categories,25
+Observation period,2015-05-03 to 2015-09-18
+Number of calendar days covered,137

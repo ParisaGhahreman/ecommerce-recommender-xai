@@ -1,0 +1,10 @@
+{
+    "model_name":"CatBoost cart-to-purchase classifier",
+    "prediction_target":"Purchase of the carted item within 14 days",
+    "selected_threshold":0.25,
+    "test_roc_auc":0.7584119938,
+    "test_pr_auc":0.5947146024,
+    "test_f1_score":0.5575417689,
+    "test_recall":0.7228112693,
+    "test_precision":0.453784709
+}

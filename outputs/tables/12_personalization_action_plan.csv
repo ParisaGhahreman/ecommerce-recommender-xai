@@ -1,0 +1,6 @@
+purchase_probability_segment,cart_count,percentage_of_carts,average_predicted_probability,observed_purchase_rate,observed_purchases,recommended_action,intervention_cost,business_objective
+Very low probability (<10%),1090,9.67,8.03,5.96,65,Avoid immediate repeated messaging; show relevant alternatives later.,Very low,Avoid wasting contact capacity on unlikely near-term purchases.
+Low probability (10% to <25%),4929,43.71,17.36,17.24,850,Use low-cost product recommendations or a delayed reminder.,Low,Increase relevance without spending a financial incentive.
+Moderate probability (25% to <40%),2785,24.7,31.53,31.17,868,"Use personalized reassurance, related products, and test a small incentive through A/B testing.",Low to moderate,Support conversion while experimentally identifying customers responsive to incentives.
+High probability (40% to <70%),1483,13.15,50.09,49.76,738,Send a timely reminder and reduce checkout friction; avoid broad discounts.,Low,Prevent abandonment among carts already likely to convert.
+Very high probability (>=70%),990,8.78,79.1,78.79,780,"Prioritize seamless checkout, stock visibility, and service quality; do not offer a default discount.",Very low,Protect margin by allowing naturally likely purchases to complete.

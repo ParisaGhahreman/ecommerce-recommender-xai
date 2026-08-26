@@ -1,0 +1,24 @@
+feature,feature_group,missing_count,unique_values
+has_prior_pair_interaction,User-item history,0,2
+missing_prior_pair_timing,User-item history,0,2
+log_prior_pair_event_count,User-item history,0,30
+log_prior_pair_view_count,User-item history,0,31
+log_prior_pair_transaction_count,User-item history,0,5
+log_user_event_count_before_cart,User history,0,2302
+log_user_view_count_before_cart,User history,0,2049
+log_user_addtocart_count_before_cart,User history,0,605
+log_user_transaction_count_before_cart,User history,0,459
+log_item_event_count_before_cart,Item history,0,1215
+log_item_view_count_before_cart,Item history,0,1153
+log_item_addtocart_count_before_cart,Item history,0,257
+log_item_transaction_count_before_cart,Item history,0,104
+user_prior_purchase_share,User history,0,4966
+user_prior_cart_share,User history,0,5918
+item_prior_purchase_share,Item history,0,3187
+item_prior_cart_share,Item history,0,4651
+prior_pair_view_share,User-item history,0,15
+prior_pair_recency_minutes,User-item history,14765,35459
+prior_pair_interaction_span_minutes,User-item history,14765,38223
+cart_hour,Temporal,0,24
+cart_dayofweek,Temporal,0,7
+cart_month,Temporal,0,5

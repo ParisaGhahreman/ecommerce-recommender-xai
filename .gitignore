@@ -1,0 +1,30 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Large downloaded archives
+*.7z
+*.zip
+
+# Record-level routing output: excluded from the public repository
+outputs/tables/14_integrated_personalization_routing.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment files
+.env

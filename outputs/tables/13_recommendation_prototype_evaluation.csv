@@ -1,0 +1,4 @@
+method,evaluation_queries,recommendation_coverage,hit_rate_at_10,mrr_at_10,hit_count
+Popularity baseline,52433,1.0,0.0113,0.0025,592
+Item-to-item co-occurrence,52433,0.3992,0.1492,0.0918,7824
+Hybrid co-occurrence with popularity fallback,52433,1.0,0.1526,0.0924,7999

@@ -1,0 +1,19 @@
+# Core data analysis
+numpy>=1.26
+pandas>=2.1
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Machine learning
+scikit-learn>=1.3
+catboost>=1.2
+xgboost>=2.0
+
+# Explainable AI
+shap>=0.44
+
+# Notebook execution
+jupyter>=1.0
+ipykernel>=6.0

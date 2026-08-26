@@ -1,0 +1,7 @@
+check,value
+Exact duplicate rows in events dataset,460
+Exact duplicate rows in category tree dataset,0
+Missing visitor IDs in events dataset,0
+Missing item IDs in events dataset,0
+Invalid event labels in events dataset,0
+Duplicate category IDs in category tree dataset,0

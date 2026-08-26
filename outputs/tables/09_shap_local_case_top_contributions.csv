@@ -1,0 +1,21 @@
+case,feature,feature_value,shap_contribution,effect_on_purchase_prediction
+High-probability purchased cart,log_user_transaction_count_before_cart,6.154858094016418,1.0787174371632748,Increases predicted purchase likelihood
+High-probability purchased cart,user_prior_purchase_share,0.072542058959716,0.5498299203091613,Increases predicted purchase likelihood
+High-probability purchased cart,log_user_view_count_before_cart,8.596558746796978,0.40780860000865843,Increases predicted purchase likelihood
+High-probability purchased cart,user_prior_cart_share,0.092143849359469,0.1803355473620785,Increases predicted purchase likelihood
+High-probability purchased cart,log_user_event_count_before_cart,8.776475789346321,0.1484173540370461,Increases predicted purchase likelihood
+High-probability purchased cart,log_user_addtocart_count_before_cart,6.393590753950631,-0.14818690103292953,Decreases predicted purchase likelihood
+High-probability purchased cart,prior_pair_interaction_span_minutes,4169.502816666666,0.11701654160204719,Increases predicted purchase likelihood
+High-probability purchased cart,cart_hour,21.0,0.11493594381460583,Increases predicted purchase likelihood
+High-probability purchased cart,prior_pair_recency_minutes,1.8287666666666669,0.11445926306147906,Increases predicted purchase likelihood
+High-probability purchased cart,prior_pair_view_share,1.0,0.10757018447933393,Increases predicted purchase likelihood
+Low-probability non-purchased cart,log_user_addtocart_count_before_cart,3.8918202981106265,-0.515751849014893,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,prior_pair_view_share,0.0,-0.3626084272729466,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,log_user_transaction_count_before_cart,0.0,-0.3518071605095435,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,user_prior_cart_share,0.8135593220338984,-0.33554289756566896,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,cart_hour,13.0,-0.2635634952831788,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,user_prior_purchase_share,0.0,-0.20146992568360267,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,prior_pair_interaction_span_minutes,,-0.1642241700516511,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,cart_dayofweek,5.0,-0.11548164705508053,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,prior_pair_recency_minutes,,-0.08656137464404115,Decreases predicted purchase likelihood
+Low-probability non-purchased cart,has_prior_pair_interaction,0.0,-0.05791033976234952,Decreases predicted purchase likelihood
